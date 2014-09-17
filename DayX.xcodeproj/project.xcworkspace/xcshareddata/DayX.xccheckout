@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13D0412F-9CB2-4946-84B3-AFAB81D52B0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DayX</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D970125A-3B62-4707-81B1-43C72A7E2C8F</key>
+		<string>https://github.com/josephara/Day-X.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DayX.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D970125A-3B62-4707-81B1-43C72A7E2C8F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/josephara/Day-X.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D970125A-3B62-4707-81B1-43C72A7E2C8F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D970125A-3B62-4707-81B1-43C72A7E2C8F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Day-X</string>
+		</dict>
+	</array>
+</dict>
+</plist>

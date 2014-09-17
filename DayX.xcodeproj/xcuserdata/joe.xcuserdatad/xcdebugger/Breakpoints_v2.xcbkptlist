@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DayX/DetailViewController.m"
+            timestampString = "432614926.048727"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "@property [IBOutlet:UITextField] //Add an IBOutlet UITextField property to the interface in the implementation file //Add a UITextField to the top of the view controller in your XIB //Wire up the UITextField &apos;referencing outlet&apos; to the &apos;textField&apos; outlet on the view controller //Declare the viewcontroller as a UITextFieldDelegate //Add the textFieldShouldReturn method to the class //In the method have the textField resign first responder //In the viewDidLoad method set self as the delegate of the textField @end @implementation DetailViewController - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil { self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];"
+            landmarkType = "19">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

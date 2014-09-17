@@ -7,7 +7,7 @@
 //
 
 #import "DXAppDelegate.h"
-
+#import "detailviewController.m"
 @implementation DXAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
